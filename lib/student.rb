@@ -4,4 +4,8 @@ class student
 
   end
 
+  def raise_hand
+
+  end
+
 end
