@@ -1,3 +1,5 @@
 require-relative '../lib/student.rb'
 
-class 
+class ChattyStudent
+
+end
